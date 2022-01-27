@@ -79,4 +79,4 @@ To run the project, the schema first needs to be created before running the ETL 
 
         python etl.py
 
-3. For testing, open tewst.ipynb and execute each statement one at a time.
+3. For testing, open test.ipynb and execute each statement one at a time.
