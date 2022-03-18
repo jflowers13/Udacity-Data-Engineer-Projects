@@ -1,0 +1,8 @@
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Exclude anaconda folder
+anaconda3/
+
+# Exclude Workspace Configuration
+/.workspace-config.json
